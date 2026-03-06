@@ -14,7 +14,7 @@ QueryMind is a Flask web application that lets users interact with a MySQL datab
 
 
 ![Image](https://github.com/Bishakha0808/DBWhisperer-AI/blob/main/Screenshot%202026-03-06%20201343.png)
-![Image](https://github.com/Bishakha0808/DBWhisperer-AI/blob/main/Screenshot%202026-03-06%20201633.png)
+
 
 ### How It Works
 
