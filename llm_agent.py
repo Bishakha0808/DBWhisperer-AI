@@ -14,7 +14,7 @@ engine = create_engine(
 )
 
 # ── Gemini client ────────────────────────────────────────────────────────────
-client = genai.Client(api_key="AIzaSyBA4bzi9JrgU_OWZLCzZSP3h8hlh2Iu_GE")
+client = genai.Client(api_key="***********************************")
 MODEL = "gemini-flash-latest"
 
 DB_SCHEMA = """
@@ -69,3 +69,4 @@ Summarise this result in one or two clear, friendly sentences."""
 
     except Exception as e:
         return f"Error processing query: {e}"
+
