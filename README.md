@@ -3,7 +3,7 @@ Meaning: “Ask the database in natural language and it responds intelligently.�
 
 # QueryMind — Natural Language Database Interaction with LLMs
 
-> **Experiment 8** | AI Lab Project  
+> **Experiment 8**  
 > Ask your MySQL database questions in plain English — powered by Google Gemini AI.
 
 ---
